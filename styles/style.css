@@ -6,8 +6,9 @@ html {
 }
 
 h1 {
-    font-size: 60px;
-    margin: 0 auto;
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
     padding: 20px 0;
     color: #00539F;
     text-shadow: 3px 3px 1px black;
