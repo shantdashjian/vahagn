@@ -15,7 +15,7 @@ const button = document.querySelector('button');
 const heading = document.querySelector('h1');
 
 function setUserName() {
-    let userName = prompt('Enter your name:');
+    let userName = prompt('Enter your name: ');
     if (!userName) {
         userName = 'Guest';
     }
