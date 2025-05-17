@@ -1,6 +1,6 @@
 # Vahagn
 
-An informational and interactive web page about [Vahagn](https://en.wikipedia.org/wiki/Vahagn), the Armenian God of Thunder.
+An informational and interactive web page about [Vahagn](https://en.wikipedia.org/wiki/Vahagn), the Armenian God of thunder, war, and fire.
 
 ## Motivation
 
